@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Python Advanced
 - 🤔 I’m looking for help with Discord Bot Development
 - 💬 Ask me about How am I
-- 📫 How to reach me: [ArinjoyProgrammer(GitHub)](https://github.com/ArinjoyProgrammer) || [< Arinjoy.py >#8981(Discord)](https://discord.com/users/869192240038309898)
+- 📫 How to reach me: [ArinjoyProgrammer(GitHub)](https://github.com/ArinjoyProgrammer) || [< Arinjoy.py >#8981(Discord)](https://discord.com/users/943512400425025546)
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: None
 -->
