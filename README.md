@@ -9,6 +9,17 @@
 - ⚡ Fun fact: None
 -->
 
+<br>
+<br>
+
 <div align=centre>
 <img src=https://github-readme-stats.vercel.app/api?username=ArinjoyProgrammer&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515>
+</div>
+<br>
+
+<p><b>My Discord Stats :-</b></p>
+
+<br>
+<div align=centre>
+<img src=https://discord.c99.nl/widget/theme-1/943512400425025546.png>
 </div>
